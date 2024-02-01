@@ -1,1 +1,1 @@
-[![urrito-Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burrito-Princess)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burrito-Princess)](#)
