@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burrito-Princess])(#)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burrito-Princess&exclude-repo=portofolio-updated)](#)
